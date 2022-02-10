@@ -8,3 +8,4 @@ Inside of the app you can:
 -Recicler view
 -Fragments
 -ViewPager
+-Toolbar actions
